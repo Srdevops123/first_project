@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Campaign</tabs>
+    <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Contract</tabs>
+    <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>standard-Solution</tabs>
+    <tabs>standard-Product2</tabs>
+    <tabs>standard-report</tabs>
+    <tabs>standard-Dashboard</tabs>
+    <tabs>Store__c</tabs>
+    <tabs>Collection__c</tabs>
+    <tabs>Category__c</tabs>
+    <tabs>Product_Variant__c</tabs>
+    <tabs>Category_Product__c</tabs>
+    <tabs>Product_Variant_Size__c</tabs>
+    <tabs>Product_Variant_And_Size__c</tabs>
+    <tabs>Test_Object__c</tabs>
+    <tabs>Wishlist_Product__c</tabs>
+    <tabs>Contact_Address__c</tabs>
+    <tabs>OrderItems__c</tabs>
+    <tabs>MyOrder__c</tabs>
+</CustomApplication>
